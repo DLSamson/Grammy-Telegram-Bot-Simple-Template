@@ -2,7 +2,7 @@ import { Context } from 'grammy';
 import {bot} from './bot';
 
 bot.command('start', ctx => {
-    const message = 'Hello, this is bot template!';
+    const message = 'Hello, this is grammy bot template!';
     ctx.reply(message);
 });
 
