@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-And create a config file `config/defualt.json`, example you can see in `config/example.json`
+And create a config file `config/default.json`, example you can see in `config/example.json`
 
 ---
 
